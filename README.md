@@ -8,12 +8,12 @@ I'm a passionate technologist based in Nairobi, Kenya, with 4+ years of experien
 
 ### 🛠️ Tech Stack & Tools
 
-- **DevOps:** CI/CD · Docker · Kubernetes · Terraform  
+- **DevOps:** CI/CD · Docker · Kubernetes · Argo CD · Terraform  
 - **Cloud:** AWS · GCP · Oracle Cloud · Azure  
 - **API Gateways:** Apigee · NGINX  
 - **Programming & Scripting:** Python · Bash  
 - **Databases:** SQL Server · PostgreSQL
-- **Monitoring & Security and telemetry:** Opentelemetry · Prometheus · Grafana
+- **Monitoring Security & telemetry:** Opentelemetry · Prometheus · Grafana
 - **Others:** Jira · Git · Linux
 
 ---
