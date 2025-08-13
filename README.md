@@ -2,7 +2,7 @@
 
 ### 💻 DevOps | ☁️ Cloud Engineer | 🔐 Cybersecurity Enthusiast
 
-I'm a passionate technologist based in Nairobi, Kenya, with 4+ years of experience in cloud infrastructure, DevOps automation, and secure system design. I build scalable solutions that bridge the gap between development and operations, with a keen focus on resilience, efficiency, and security.
+I'm a passionate technologist based in Nairobi, Kenya, with 5+ years of experience in cloud infrastructure, DevOps automation, and secure system design. I build scalable solutions that bridge the gap between development and operations, with a keen focus on resilience, efficiency, and security.
 
 ---
 
