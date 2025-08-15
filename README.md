@@ -13,7 +13,7 @@ I'm a passionate technologist based in Nairobi, Kenya, with 5+ years of experien
 - **API Gateways:** Apigee · NGINX  
 - **Programming & Scripting:** Python · Bash · SQL
 - **Databases:** SQL Server · PostgreSQL
-- **Monitoring Security & telemetry:** Opentelemetry · Prometheus · Grafana
+- **Monitoring Security & Telemetry:** Opentelemetry · Prometheus · Grafana
 - **Others:** Jira · Git · Linux
 
 ---
