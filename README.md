@@ -30,7 +30,7 @@ I'm a passionate technologist based in Nairobi, Kenya, with 5+ years of experien
 
 ### 📫 Let's Connect
 
--[Portfolio Website](paulkimani.vercel.app)
+- 🌐 [Website](https://paulkimani.vercel.app/)
 - 💼 [LinkedIn](www.linkedin.com/in/paul-kimani-b1b996162gt5)
 - 📧 paulkim841@gmail.com
 
